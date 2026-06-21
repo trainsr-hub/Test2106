@@ -1,0 +1,17 @@
+/* src/packages/theme/Midnight Blue/theme.css */
+:root {
+  /* Màu nền tổng thể và màu bề mặt các panel */
+  --theme-bg-main: #0f172a;
+  --theme-bg-surface: #1e293b;
+  
+  /* Trạng thái phần tử: Hover và Active (Được chọn) */
+  --theme-bg-hover: #334155;
+  --theme-bg-active: #3b82f6;
+  
+  /* Màu chữ (Chính và Phụ) */
+  --theme-text-main: #f8fafc;
+  --theme-text-sub: #94a3b8;
+  
+  /* Cấu trúc đường viền */
+  --theme-border: #475569;
+}
